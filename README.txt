@@ -1,0 +1,1 @@
+Enter "http-server -p 8080" in terminal to run
