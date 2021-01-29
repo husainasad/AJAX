@@ -1,5 +1,5 @@
 (function(){
-  const url = 'message.txt';
+  const url = './message.txt';
   test();
   function  test(){
     const xhr = new XMLHttpRequest();
